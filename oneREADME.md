@@ -42,22 +42,6 @@ To build a machine learning model that predicts whether a customer will churn us
 - matplotlib, seaborn  
 - Jupyter Notebook  
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Customer_Churn_Prediction.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch the notebook:
-   ```bash
-   jupyter notebook Customer_Churn_Prediction.ipynb
-   ```
 
 ## 📁 Project Structure
 
@@ -66,9 +50,8 @@ Customer_Churn_Prediction/
 │
 ├── Customer_Churn_Prediction.ipynb   # Main notebook
 ├── README.md                         # Project description
-└── requirements.txt                  # Dependencies (optional)
 ```
 
 ## 📬 Contact
 
-Feel free to reach out for feedback, questions, or collaboration at [your-email@example.com].
+Feel free to reach out for feedback, questions, or collaboration at https://www.linkedin.com/in/muhammad-hurraira-0993a4346/.
