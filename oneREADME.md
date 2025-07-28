@@ -5,12 +5,12 @@ This project uses **Logistic Regression** to predict customer churn based on cus
 
 ## 📌 Objective
 
-To build a machine learning model that predicts whether a customer will churn using the Telco Customer Churn dataset.
+To build a machine learning model that predicts whether a customer will churn using the Customer Churn dataset.
 
 ## 🧪 Workflow Summary
 
 ### 1. Data Preprocessing
-- Loaded the Telco Customer Churn dataset.
+- Loaded the Customer Churn dataset.
 - Cleaned the data: removed the `customerID` column and handled missing values.
 - Encoded categorical variables using **Label Encoding** and **One-Hot Encoding**.
 - Standardized numerical features with **StandardScaler**.
